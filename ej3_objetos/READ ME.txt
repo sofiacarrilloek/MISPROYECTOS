@@ -5,9 +5,26 @@ CORREO SECUNDARIO: sofia.abigail.carrillo@gmail.com
 INSTRUCCIONES:
 1.- Abrir el proyecto Ej3_objetos desde NetBeans
 2.- Ejecutar el archivo
-3.- Ingresar el tama�o del lado
-4.- Ingresar el n�mero de la acci�n a realizar o el nombre de la acci�n que aparece en el menu
-5.- Se mostrar� el resultado
-6.- Teclear el n�mero 1 o la palabra salir, para finalizar el programa
+3.- Ingresar el tamaño del lado
+4.- Ingresar el número de la acción a realizar:
+    Valores permitidos:
+    CALCULAR ÁREA: 1 o area
+    CALCULAR PERÍMETRO CUADRADO: 2 o perimetro cuadrado
+    CALCULAR VOLUMEN: 3 o volumen
+    CALCULAR PERÍMETRO CUBO: 4 o perimetro cubo
+    CANCELAR: 5 o cancelar
+    SALIR: 6 o salir
+5.- Se mostrará el resultado y un menú con las siguientes opciones:
+    Volver al menú de cálculos: 1, volver al menu o menu
+    Volver a la entrada de datos: 2, entrada
+    
+    NOTAS:
+    CANCELAR llevará a la entrada de datos nuevamente
+    En cada menú aparecerá el dato ingresado
+    Ejemplo: DATO:10 DE LADO
+ 
+6.-Para finalizar desde el menú de calculos ingresar 6 o salir
+
+
 
 
