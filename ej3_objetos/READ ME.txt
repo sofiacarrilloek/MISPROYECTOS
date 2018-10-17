@@ -1,0 +1,13 @@
+NOMBRE: SOFIA ABIGAIL CARRILLO EK
+CORREO PRINCIPAL: sofia.carrillo@cbtis72.edu.mex
+CORREO SECUNDARIO: sofia.abigail.carrillo@gmail.com
+
+INSTRUCCIONES:
+1.- Abrir el proyecto Ej3_objetos desde NetBeans
+2.- Ejecutar el archivo
+3.- Ingresar el tamaño del lado
+4.- Ingresar el número de la acción a realizar o el nombre de la acción que aparece en el menu
+5.- Se mostrará el resultado
+6.- Teclear el número 1 o la palabra salir, para finalizar el programa
+
+
