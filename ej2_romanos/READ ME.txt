@@ -5,11 +5,16 @@ CORREO SECUNDARIO: sofia.abigail.carrillo@gmail.com
 INSTRUCCIONES:
 1.- Abrir el proyecto Ej2_romanos desde NetBeans
 2.- Seleccionar el proyecto, clic derecho y luego ejecutar
-3.- Introducir un n˙mero de 1 al 1000 
+3.- Introducir un n√∫mero de 1 al 1000 
 4.- Dar Enter
-5.-A continuaciÛn, se mostrar· el resultado
+5.-A continuaci√≥n, se mostrar√° el resultado
 
 Notas:
--Si ingresa un caracter que no sea un n˙mero el proyecto marcar· error
--Si ingresa un n˙mero mayor al rango le aparecera el siguiente mensaje:
-  "El n˙mero NO entra en el rango establecido"
+-Si ingresa un caracter que no sea un n√∫mero el proyecto mandar√° el siguiente error:
+ ERROR: No ingreso un n√∫mero
+ Teclee un n√∫mero entero [1-1000]: 
+ 
+-Si ingresa un n√∫mero mayor al rango le aparecera el siguiente mensaje:
+  "El n√∫mero NO entra en el rango establecido" 
+  Y el program√° finalizara
+  
