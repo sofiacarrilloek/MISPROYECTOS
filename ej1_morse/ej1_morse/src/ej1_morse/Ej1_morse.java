@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Sofia Carrillo
+ * @author Sofia Carrillo nnn
  */
 public class Ej1_morse {
 
@@ -15,6 +15,7 @@ public class Ej1_morse {
     public static void main(String[] args) {
         Scanner entrada= new Scanner(System.in);//Declaracion del escanner
         //Declaracion de variables
+        String a;
         String 
                 //Letras en clave morse
                 cEs=" ",//Espacio en blanco
