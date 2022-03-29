@@ -1,0 +1,125 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    height: 800px;
+    width: 800px;
+    background-color: rgb(190, 134, 214);
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.gato{
+    position: relative;
+    top: 200px;
+    left: 200px;
+}
+.circulo {
+    width: 400px;
+    height: 400px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #FAF2E9 ;
+}
+
+.triangulo11, .triangulo22 {
+    width: 0;
+    height: 0;
+    border-bottom:100px solid #f6d8ae;
+    border-left: 15px solid transparent;
+    border-right: 60px solid transparent;  
+    position: relative; 
+}
+.triangulo1{
+    bottom: 5px;
+    right: 0px;
+    transform: rotate(70deg);
+}
+.triangulo11{
+    top: 20px;
+    right: 10px;
+    transform: rotate(2deg);
+}
+.triangulo2{
+    bottom: 181px;
+    left: 280px;
+    right: 100px;
+    transform: rotate(300deg);
+}
+.triangulo22{
+    top: 20px;
+    right: 20px;
+    transform: rotate(5deg);
+}
+.triangulo1, .triangulo2 {
+    width: 0;
+    height: 0;
+    border-bottom:140px solid #FAF2E9;
+    border-left: 35px solid transparent;
+    border-right: 80px solid transparent;  
+    position: relative; 
+}
+
+.ojo, .ojo2 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: #A0CEE2;
+    position: relative;
+}
+
+.ojo{
+    bottom: 150px;
+    left: 70px;
+}
+
+.ojo2{
+    bottom: 250px;
+    left: 230px;
+}
+
+.iris, .iris2 {
+    width: 20px;
+    height: 100px;
+    border-radius: 50%;
+    background: #030303;
+    position: relative;
+}
+
+.iris{
+    left:40px;}
+.iris2{
+    left:40px;}
+
+.nariz{
+    width: 0px;
+    height: 0px;
+    border-right: 50px solid transparent;
+    border-left: 50px solid transparent;
+    border-top: 50px solid #EA9A84;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    position: relative;
+    bottom: 250px;
+    left: 150px;
+}
+
+.boca{
+    width: 0;
+    height: 0;
+    border-bottom:40px solid #CB4F35;
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;  
+    position: relative; 
+}
+.boca{
+    bottom: 240px;
+    left: 160px;
+}

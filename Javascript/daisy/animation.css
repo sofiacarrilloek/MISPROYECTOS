@@ -1,0 +1,93 @@
+.lienzo{
+    height: 800px;
+    width: 800px;
+    background-color: rgb(142, 92, 163);
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.flor{
+    position: relative;
+}
+
+
+.centro{
+    width: 100px;
+    height: 100px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #f5e239 ;
+    position: relative;
+}
+
+.centro{
+    bottom: 910px;
+    left: 340px;
+}
+
+.centro:hover{
+    transform: scale(1.5, 1.5);
+}
+
+.petalo{
+    width: 80px;
+    height: 140px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #fffdee ;
+    position: relative;
+    transition: all 4s; 
+}
+
+.petalo1{
+    bottom:900px;
+    left: 350px; 
+}
+.petalo:hover{
+    transform: translateY(800px);
+}
+.petalo2{
+    bottom: 720px;
+    left: 420px;
+    transform: rotate(45deg);
+}
+.petalo3{
+    bottom:500px;
+    left: 440px;
+    transform: rotate(90deg);
+}
+.petalo4{
+    bottom:300px;
+    left: 410px;
+    transform: rotate(135deg);
+}
+
+.petalo5{
+    bottom: 140px;
+    left: 350px;
+}
+
+
+.petalo6{
+    bottom: 20px;
+    left: 280px;
+    transform: rotate(45deg);
+}
+
+.petalo7{
+    top: 50px;
+    left: 250px;
+    transform: rotate(90deg);
+}
+
+.petalo8{
+    top: 110px;
+    left: 280px;
+    transform: rotate(135deg);
+}
