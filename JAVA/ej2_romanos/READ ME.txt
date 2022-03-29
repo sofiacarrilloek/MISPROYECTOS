@@ -1,0 +1,20 @@
+NOMBRE: SOFIA ABIGAIL CARRILLO EK
+CORREO PRINCIPAL: sofia.carrillo@cbtis72.edu.mex
+CORREO SECUNDARIO: sofia.abigail.carrillo@gmail.com
+
+INSTRUCCIONES:
+1.- Abrir el proyecto Ej2_romanos desde NetBeans
+2.- Seleccionar el proyecto, clic derecho y luego ejecutar
+3.- Introducir un número de 1 al 1000 
+4.- Dar Enter
+5.-A continuación, se mostrará el resultado
+
+Notas:
+-Si ingresa un caracter que no sea un número el proyecto mandará el siguiente error:
+ ERROR: No ingreso un número
+ Teclee un número entero [1-1000]: 
+ 
+-Si ingresa un número mayor al rango le aparecera el siguiente mensaje:
+  "El número NO entra en el rango establecido" 
+  Y el programá finalizara
+  
